@@ -1,16 +1,70 @@
-## Hi there 👋
+# Hi 👋, I'm Bhanu Prasad Samal
 
-<!--
-**bhanu-deve/bhanu-deve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### A passionate Full Stack Java Developer
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on **Attendance System**  
+  [Project Link](#)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👯 I’m looking to collaborate on **[Project Name]**  
+  [Project Link](#)
+
+- 🤝 I’m looking for help with **[Project Name]**  
+  [Project Link](#)
+
+- 🌱 I’m currently learning **AI/ML, AWS Cloud**
+
+- 💬 Ask me about:  
+  **ReactJS, HTML, CSS, Java, Python, JavaScript, SQL, MongoDB, Linux**
+
+- 📫 How to reach me:  
+  **bhanuprasadsamal@gmail.com**
+
+- 👨‍💻 All of my projects are available at  
+  [https://bhanuprasadsamal.me](https://bhanuprasadsamal.me)
+
+- 📝 I regularly write articles on  
+  [https://bhanuprasadsamal.me](https://bhanuprasadsamal.me)
+
+- 📄 Know about my experiences  
+  [View Resume](https://drive.google.com/file/d/1VfYJlrYB-uzd1c_yH6BvH5-t_HL6w58D/view?usp=sharing)
+
+- ⚡ Fun fact:  
+  I am sometimes **clumsy** 😄
+
+---
+
+## 🛠️ Skills
+
+**Languages:**  
+Java, Python, JavaScript, SQL, HTML, CSS
+
+**Frontend:**  
+ReactJS, Bootstrap
+
+**Backend:**  
+ExpressJS, NodeJS
+
+**Database:**  
+MongoDB
+
+**DevOps & Cloud:**  
+Linux, AWS
+
+---
+
+## 📫 Connect with me
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bhanu-deve)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhanuprasadsamal1/)  
+[![Facebook](https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/rokey.chintu.1)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/bhanuprasadsamal/)
+
+<!-- Add more platforms as you fill in your usernames -->
+
+---
+
+## 📊 GitHub Stats
+
+![Bhanu's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhanu-deve&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhanu-deve&layout=compact&theme=radical)
