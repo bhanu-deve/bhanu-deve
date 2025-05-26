@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding" width="600"/>
+</p>
+
 # Hi 👋, I'm Bhanu Prasad Samal
 
 ### A passionate Full Stack Java Developer
@@ -33,6 +37,14 @@
 
 ---
 
+## 🌍 Languages I Speak
+
+- 🗣️ **Odia**
+- 🗣️ **Hindi**
+- 🗣️ **English**
+
+---
+
 ## 🛠️ Skills
 
 **Languages:**  
@@ -58,8 +70,6 @@ Linux, AWS
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhanuprasadsamal1/)  
 [![Facebook](https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/rokey.chintu.1)  
 [![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/bhanuprasadsamal/)
-
-<!-- Add more platforms as you fill in your usernames -->
 
 ---
 
