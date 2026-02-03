@@ -6,16 +6,11 @@
 
 ### A passionate Full Stack Java Developer
 
-- 🔭 I’m currently working on **Attendance System**  
-  [Project Link](#)
+- 🔭 I’m currently working on **School On bording**  
+  [Project Link](https://github.com/bhanu-deve/Zaltix-new-school)
 
-- 👯 I’m looking to collaborate on **[Project Name]**  
-  [Project Link](#)
 
-- 🤝 I’m looking for help with **[Project Name]**  
-  [Project Link](#)
-
-- 🌱 I’m currently learning **AI/ML, AWS Cloud**
+- 🌱 I’m currently learning **AWS Cloud**
 
 - 💬 Ask me about:  
   **ReactJS, HTML, CSS, Java, Python, JavaScript, SQL, MongoDB, Linux**
@@ -30,10 +25,10 @@
   [https://bhanuprasadsamal.me](https://bhanuprasadsamal.me)
 
 - 📄 Know about my experiences  
-  [View Resume](https://drive.google.com/file/d/1VfYJlrYB-uzd1c_yH6BvH5-t_HL6w58D/view?usp=sharing)
+  [View Resume](https://drive.google.com/file/d/1mTQORP1Ca57atMFwEOhRor17ApCJ7dkx/view?usp=sharing)
 
 - ⚡ Fun fact:  
-  I am sometimes **clumsy** 😄
+  I am sometimes **clumsy and lasy** 😄
 
 ---
 
@@ -43,21 +38,28 @@
 - 🗣️ **Hindi**
 - 🗣️ **English**
 
+## 🌍 Languages I Understand
+
+-  **English**
+-  **Odia**
+-  **Hindi**
+-  **Bengali**
+   
 ---
 
 ## 🛠️ Skills
 
 **Languages:**  
-Java, Python, JavaScript, SQL, HTML, CSS
+Java, Python
 
 **Frontend:**  
-ReactJS, Bootstrap
+ReactJS, Bootstrap, HTML, CSS
 
 **Backend:**  
-ExpressJS, NodeJS
+ExpressJS, NodeJS, JavaScript
 
 **Database:**  
-MongoDB
+MongoDB, SQL
 
 **DevOps & Cloud:**  
 Linux, AWS
