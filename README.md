@@ -81,12 +81,16 @@ An education management platform designed to simplify school operations through 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=bhanu-deve&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=8957E5&text_color=C9D1D9&rank_icon=github" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhanu-deve&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=bhanu-deve&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhanu-deve&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=bhanu-deve&hide_border=true&background=0D1117&ring=8957E5&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Streak"/>
+  <img width="95%" src="https://streak-stats.demolab.com?user=bhanu-deve&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=bhanu-deve&theme=github-compact&hide_border=true&area=true" alt="Contribution Graph"/>
 </p>
 
 ---
